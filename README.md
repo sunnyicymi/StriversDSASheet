@@ -19,7 +19,7 @@ table
 |----|--------------------|--------------------------------------------------------|
 | 1  | User Input/Output  | [Code](https://github.com/sunnyicymi/StriversDSASheet/day1/code1.md) |
 
-<table style="width:100%">
+<table style="width:100vw !important">
   <thead>
     <tr>
       <th style="width:5%">#</th>
