@@ -21,6 +21,17 @@ I’ve decided it’s time to face this head-on and strengthen my fundamentals. 
 **Daily Target**: ~7 Questions / Day  
 **No Zero Days. No Excuses.**
 
+--- 
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/yourname)
+- 🐦 [X (Twitter)](https://x.com/yourhandle)
+- ✍️ [Medium](https://medium.com/@yourhandle)
+
+
+# Motivation
+
 
 > "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress." — Barack Obama
 
@@ -30,9 +41,7 @@ This is not just a challenge for me—**you can follow along, fork the repo, and
 
 
 
-## 🛠️ Tracking System
-
-table
+## 🛠️ Progress Table
 
 | #  | Topic              | Link                                                   |
 |----|--------------------|--------------------------------------------------------|
