@@ -2,7 +2,6 @@
 
 Welcome to my personal journey of mastering Data Structures and Algorithms (DSA) using the famous [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)! 🎯
 
----
 
 
 ## 👋 Introduction
@@ -11,7 +10,6 @@ Hi, I’m **Sunny Kumar** – a passionate Full-Stack Developer with nearly **3 
 
 I’ve decided it’s time to face this head-on and strengthen my fundamentals. My goal is simple: become as confident with **problem-solving** as I am with **shipping production code**.
 
----
 
 
 ## 📅 The Challenge
