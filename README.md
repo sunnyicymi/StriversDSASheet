@@ -8,3 +8,13 @@ I never focused on DSA before but I wanted to switch to even a better place, DSA
 
 **Planning:**
 I am planning to finish all 455 topics within 90 days of time span hence I need to cover atleast 7 topics each day without any break and this is going to be my challenge. You can adjust acccording to your availability, pacing and understanding of topics.
+
+
+**Structure:**
+I am going to make branch day wise. Means whatever I do for the day will go into a specific branch and main branch will be collection of everything.
+
+table
+
+| #  | Topic              | Link                                                   |
+|----|--------------------|--------------------------------------------------------|
+| 1  | User Input/Output  | [Code](https://github.com/sunnyicymi/StriversDSASheet/day1/code1.md) |
