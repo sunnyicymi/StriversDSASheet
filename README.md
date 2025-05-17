@@ -4,3 +4,7 @@
 My nams is Sunny Kumar and I am a Full-Stack developer with almost 3 Years of experience of working in startup companies and I'll would like to tell you that I am really good with the development related work but similarly bad at DSA problems.
 
 I never focused on DSA before but I wanted to switch to even a better place, DSA is a thing which I need to learn atleast.
+
+
+**Planning:**
+I am planning to finish all 455 topics within 90 days of time span hence I need to cover atleast 7 topics each day without any break and this is going to be my challenge. You can adjust acccording to your availability, pacing and understanding of topics.
