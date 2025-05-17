@@ -18,3 +18,21 @@ table
 | #  | Topic              | Link                                                   |
 |----|--------------------|--------------------------------------------------------|
 | 1  | User Input/Output  | [Code](https://github.com/sunnyicymi/StriversDSASheet/day1/code1.md) |
+
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th style="width:5%">#</th>
+      <th style="width:25%">Topic</th>
+      <th style="width:70%">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>User Input/Output</td>
+      <td><a href="https://github.com/sunnyicymi/StriversDSASheet/day1/code1.md">Code</a></td>
+    </tr>
+  </tbody>
+</table>
+
