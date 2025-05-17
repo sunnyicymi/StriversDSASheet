@@ -1,17 +1,43 @@
-# Begineer friendly Striver's DSA Sheet Solution with though process in Java
+# 🚀 Beginner-Friendly Striver's DSA Sheet Solutions in Java
 
-**Introduction:**
-My nams is Sunny Kumar and I am a Full-Stack developer with almost 3 Years of experience of working in startup companies and I'll would like to tell you that I am really good with the development related work but similarly bad at DSA problems.
+Welcome to my personal journey of mastering Data Structures and Algorithms (DSA) using the famous [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)! 🎯
 
-I never focused on DSA before but I wanted to switch to even a better place, DSA is a thing which I need to learn atleast.
+---
 
+## 👋 Introduction
 
-**Planning:**
-I am planning to finish all 455 topics within 90 days of time span hence I need to cover atleast 7 topics each day without any break and this is going to be my challenge. You can adjust acccording to your availability, pacing and understanding of topics.
+Hi, I’m **Sunny Kumar** – a passionate Full-Stack Developer with nearly **3 years of experience** working in fast-paced startups. I'm confident when it comes to development, but when it comes to **DSA**, I've always struggled. 🧠💥
 
+Until now.
 
-**Structure:**
-I am going to make branch day wise. Means whatever I do for the day will go into a specific branch and main branch will be collection of everything.
+I’ve decided it’s time to face this head-on and strengthen my fundamentals. My goal is simple: become as confident with **problem-solving** as I am with **shipping production code**.
+
+---
+
+## 📅 The Challenge
+
+**Total Problems**: 455  
+**Duration**: 90 Days  
+**Daily Target**: ~7 Questions / Day  
+**No Zero Days. No Excuses.**
+
+> "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress." — Barack Obama
+
+This is not just a challenge for me—**you can follow along, fork the repo, and try it at your own pace!**
+
+---
+
+## 🛠️ Repository Structure
+
+```bash
+main
+├── day1/
+│   ├── Problem1.java
+│   ├── README.md
+│   └── ...
+├── day2/
+│   └── ...
+└── ...
 
 table
 
@@ -19,20 +45,4 @@ table
 |----|--------------------|--------------------------------------------------------|
 | 1  | User Input/Output  | [Code](https://github.com/sunnyicymi/StriversDSASheet/day1/code1.md) |
 
-<table style="width:100vw !important">
-  <thead>
-    <tr>
-      <th style="width:5%">#</th>
-      <th style="width:25%">Topic</th>
-      <th style="width:70%">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>User Input/Output</td>
-      <td><a href="https://github.com/sunnyicymi/StriversDSASheet/day1/code1.md">Code</a></td>
-    </tr>
-  </tbody>
-</table>
 
